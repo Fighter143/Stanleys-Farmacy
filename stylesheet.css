@@ -1,0 +1,10 @@
+button{
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
